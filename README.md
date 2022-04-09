@@ -1,4 +1,4 @@
 # taskexpert1
-**اشرف شاكر البهلول جزء classification
+**اشرف شاكر البهلول sec1 جزء classification
 **محمد السيد جزء clustering
-**مصطفي اشرف الصعيدي جزء regression
+**مصطفي اشرف الصعيدي sec4 جزء regression
